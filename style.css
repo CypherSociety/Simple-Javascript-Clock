@@ -1,0 +1,9 @@
+body {
+  font-family: 'Century Gothic';
+}
+
+#clock {
+  font-weight: 300;
+  font-size: 150px;
+  text-align: center;
+}
